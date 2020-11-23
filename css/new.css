@@ -1,0 +1,63 @@
+.m41{
+	width:30.66666%;
+}
+#det{
+	font-size: 10px;
+
+}
+#list{
+	margin-left:5px;
+	text-align: center;
+	padding-left: 10px;
+
+}
+.s{
+	font-size: 15px;
+}
+.form{
+	background-color: white
+	height: auto;
+	max-width: 825px;
+	
+	margin: auto;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding
+
+}
+.tx{
+	font-size: 13px;
+}
+@media only screen and (max-width: 786px ){
+	.s{
+		font-size: 10px;
+	}
+	.rate{
+
+	position: absolute;
+	margin-top: -51.5px;
+	margin-left: 70px;
+
+}
+.for{
+	max-width: 8000px;
+}
+@media only screen and (max-width: 320px ){
+	.s{
+		font-size: 15px;
+
+	}
+	.job{
+		font-size: 5px;
+	}
+	.rate{
+
+	position: absolute;
+	margin-top: -47px;
+	margin-left: 67px;
+}
+	
+}
